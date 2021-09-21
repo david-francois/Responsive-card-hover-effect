@@ -1,5 +1,6 @@
-# Credit-card-svelte
+# Responsive-card-hover-effect
 
-Animated credit card with svelte JS
+Responsive-card-hover-effect with svelte JS
 
-![credit card](https://user-images.githubusercontent.com/59915839/134167577-6fa6f538-f15c-4f04-a938-2479fd6bfe90.png)
+
+![pepsi](https://user-images.githubusercontent.com/59915839/134253232-7a4340ac-e828-48bc-9a95-bfc9c391673a.png)
